@@ -1,0 +1,16 @@
+.sort, .table_wrapper {
+	padding: 20px 0;
+}
+.sort__select {
+	padding: 5px;
+}
+.table {
+	border-collapse: collapse;
+}
+.table td, .table th {
+	padding: 10px;
+	border: solid 1px #ccc;
+}
+.table thead {
+	background-color: rgba(204, 204, 204, 0.2);
+}
